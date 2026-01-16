@@ -186,4 +186,5 @@ wireplumber
 spice-vdagent
 
 ### Desktop
-cosmic
+gnome
+gnome-circle
