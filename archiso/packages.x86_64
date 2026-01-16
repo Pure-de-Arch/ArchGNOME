@@ -167,6 +167,7 @@ plymouth
 wayland
 
 ### Display Manager
+gdm
 
 ### On-ISO drivers
 nvidia-dkms
@@ -188,3 +189,4 @@ spice-vdagent
 ### Desktop
 gnome
 gnome-circle
+gnome-extra
